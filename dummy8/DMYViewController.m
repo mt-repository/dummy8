@@ -20,6 +20,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"Hello.\n");
+    NSLog(@"Hello2.\n");
 
 }
 

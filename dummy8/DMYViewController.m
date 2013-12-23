@@ -19,7 +19,6 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    NSLog(@"Hello.\n");
     NSLog(@"Hello2.\n");
     NSLog(@"Hello3.\n");
     NSLog(@"Hello4.\n");

@@ -21,6 +21,7 @@
     
     NSLog(@"Hello.\n");
     NSLog(@"Hello2.\n");
+    NSLog(@"Hello3.\n");
 
 }
 
